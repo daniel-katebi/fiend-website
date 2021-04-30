@@ -1,5 +1,4 @@
 import yen from "./media/yen.mp4";
-import bg from "./media/bg.jpg";
 import "./App.css";
 import GlitchSquiggly from "react-glitch-effect/core/GlitchSquiggly";
 import GlitchText from "react-glitch-effect/core/GlitchText";
