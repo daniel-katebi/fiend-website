@@ -25,6 +25,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  position: absolute;
 }
 
 .App-link {
@@ -32,8 +33,11 @@
   color: #000000;
 }
 
+.Link-panel {
+  padding-bottom: 600px;
+}
 .player-wrapper {
-  position: relative;
+  position: absolute;
 }
 
 .react-player {
