@@ -6,7 +6,7 @@ function Links() {
   return (
     <div className="Link-panel">
       <a
-        className="App-link"
+        className="Link-text"
         href="https://soundcloud.com/FIENDWORLDWIDE"
         target="_blank"
         rel="noopener noreferrer"
@@ -16,7 +16,7 @@ function Links() {
         </GlitchText>
       </a>
       <a
-        className="App-link"
+        className="Link-text"
         href="https://discord.com/invite/GZtuygu4gJ"
         target="_blank"
         rel="noopener noreferrer"
@@ -26,7 +26,7 @@ function Links() {
         </GlitchText>
       </a>
       <a
-        className="App-link"
+        className="Link-text"
         href="https://fiendworldwide.bandcamp.com/releases"
         target="_blank"
         rel="noopener noreferrer"

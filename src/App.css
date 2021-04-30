@@ -28,8 +28,11 @@
   position: absolute;
 }
 
-.App-link {
-  font-family: "Audiowide", cursive;
+.Link-text {
+  font-family: "Libre Barcode 128", cursive;
+  font-family: "Libre Barcode 39 Extended Text", cursive;
+  font-family: "Libre Barcode 39 Text", cursive;
+  font-size: 60px;
   color: #000000;
 }
 
